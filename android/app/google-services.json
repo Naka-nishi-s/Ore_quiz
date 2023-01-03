@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "795463530459",
+    "project_id": "quiz-sample-7f940",
+    "storage_bucket": "quiz-sample-7f940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795463530459:android:6a7b5b7ed37c15147319fe",
+        "android_client_info": {
+          "package_name": "jp.nakanishi_s.ore_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795463530459-ru914uu1a0jki4kjoe6521ude3dag2oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDshtFlvWivOCaYpIT4fiYHqOlj0-tMS9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795463530459-ru914uu1a0jki4kjoe6521ude3dag2oh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795463530459-6arjjr6cp9sbspukdb2l1nrebu2qsg0u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.nakanishi_s.ore_quiz.sampleQuiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
